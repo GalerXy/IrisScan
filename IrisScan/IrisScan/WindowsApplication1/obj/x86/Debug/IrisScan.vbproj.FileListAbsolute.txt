@@ -1,0 +1,26 @@
+C:\Users\ale_r\Documents\Visual Studio 2010\Projects\Auditoria de equipos\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Escaneo de red.exe
+C:\Users\ale_r\Documents\Visual Studio 2010\Projects\Auditoria de equipos\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Escaneo de red.xml
+C:\Users\ale_r\Documents\Visual Studio 2010\Projects\Auditoria de equipos\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Escaneo de red.pdb
+C:\Users\ale_r\Documents\Visual Studio 2010\Projects\Auditoria de equipos\WindowsApplication1\WindowsApplication1\bin\Debug\Escaneo de red.exe
+C:\Users\ale_r\Documents\Visual Studio 2010\Projects\Auditoria de equipos\WindowsApplication1\WindowsApplication1\bin\Debug\Escaneo de red.pdb
+C:\Users\ale_r\Documents\Visual Studio 2010\Projects\Auditoria de equipos\WindowsApplication1\WindowsApplication1\bin\Debug\Escaneo de red.xml
+C:\Users\ale_r\Documents\Visual Studio 2010\Projects\Auditoria de equipos\WindowsApplication1\WindowsApplication1\obj\x86\Debug\EscaneoRed.Form1.resources
+C:\Users\ale_r\Documents\Visual Studio 2010\Projects\Auditoria de equipos\WindowsApplication1\WindowsApplication1\obj\x86\Debug\EscaneoRed.Form2.resources
+C:\Users\ale_r\Documents\Visual Studio 2010\Projects\Auditoria de equipos\WindowsApplication1\WindowsApplication1\obj\x86\Debug\EscaneoRed.Form3.resources
+C:\Users\ale_r\Documents\Visual Studio 2010\Projects\Auditoria de equipos\WindowsApplication1\WindowsApplication1\obj\x86\Debug\EscaneoRed.Sesión.resources
+C:\Users\ale_r\Documents\Visual Studio 2010\Projects\Auditoria de equipos\WindowsApplication1\WindowsApplication1\obj\x86\Debug\EscaneoRed.Resources.resources
+C:\Users\ale_r\Documents\Visual Studio 2010\Projects\Auditoria de equipos\WindowsApplication1\WindowsApplication1\obj\x86\Debug\IrisScan.vbproj.GenerateResource.Cache
+C:\Users\ale_r\Documents\Visual Studio 2010\Projects\Auditoria de equipos\WindowsApplication1\WindowsApplication1\obj\x86\Debug\IrisScan.vbprojResolveAssemblyReference.cache
+C:\IrisScan\IrisScan\WindowsApplication1\obj\x86\Debug\Escaneo de red.exe
+C:\IrisScan\IrisScan\WindowsApplication1\obj\x86\Debug\Escaneo de red.xml
+C:\IrisScan\IrisScan\WindowsApplication1\obj\x86\Debug\Escaneo de red.pdb
+C:\IrisScan\IrisScan\WindowsApplication1\bin\Debug\Escaneo de red.exe
+C:\IrisScan\IrisScan\WindowsApplication1\bin\Debug\Escaneo de red.pdb
+C:\IrisScan\IrisScan\WindowsApplication1\bin\Debug\Escaneo de red.xml
+C:\IrisScan\IrisScan\WindowsApplication1\obj\x86\Debug\IrisScan.vbprojResolveAssemblyReference.cache
+C:\IrisScan\IrisScan\WindowsApplication1\obj\x86\Debug\EscaneoRed.IrisScan.resources
+C:\IrisScan\IrisScan\WindowsApplication1\obj\x86\Debug\EscaneoRed.Datos.resources
+C:\IrisScan\IrisScan\WindowsApplication1\obj\x86\Debug\EscaneoRed.Exportación.resources
+C:\IrisScan\IrisScan\WindowsApplication1\obj\x86\Debug\EscaneoRed.Sesión.resources
+C:\IrisScan\IrisScan\WindowsApplication1\obj\x86\Debug\EscaneoRed.Resources.resources
+C:\IrisScan\IrisScan\WindowsApplication1\obj\x86\Debug\IrisScan.vbproj.GenerateResource.Cache
